@@ -93,9 +93,19 @@ The application exports a flattened CSV optimized for ingestion into analytical 
 
 ---
 
+### Role-based segmentation
+
+![Role based segmentation](./screenshots/role_based_segmentation.png)
+
+---
+
 ### Email Classification Interface
 
-![Survey Interface](./screenshots/survey_interface.png)
+![Survey Interface](./screenshots/sample_email1.png)
+
+---
+
+![Survey Interface](./screenshots/sample_email2.png)
 
 ---
 
